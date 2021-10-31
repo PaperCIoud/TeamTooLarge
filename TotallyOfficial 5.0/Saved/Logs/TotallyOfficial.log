@@ -1385,3 +1385,7 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.10.31-22.02.31:245][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
 [2021.10.31-22.02.31:278][702]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
 [2021.10.31-22.02.31:749][703]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.10.31-22.06.33:373][337]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.10.31-22.06.33:484][337]LogSavePackage: Moving '../../../../../../Users/Christian/TeamTooLarge/TotallyOfficial 5.0/Saved/VerticalSliceTestOne_Auto4FE57F94F437D5C970E2ECE93FEA00E1E.tmp' to '../../../../../../Users/Christian/TeamTooLarge/TotallyOfficial 5.0/Saved/Autosaves/Game/TestMaps/VerticalSliceTestOne_Auto4.umap'
+[2021.10.31-22.06.33:487][337]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestMaps/VerticalSliceTestOne' took 0.147
+[2021.10.31-22.06.33:487][337]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
